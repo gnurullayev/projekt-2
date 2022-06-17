@@ -205,7 +205,7 @@
         background: #FAFAFA;
         overflow: hidden;
         /* border: 2px solid red; */
-        margin-bottom: 200px;
+        /* margin-bottom: 200px; */
     }
 
     .footer .footer_in{
@@ -614,8 +614,9 @@
         height: auto;
         background: #FAFAFA;
         overflow: hidden;
+        padding-bottom: 88px;
         /* border: 2px solid red; */
-        margin-bottom: 200px;
+        /* margin-bottom: 200px; */
     }
 
     .footer .footer_in{
